@@ -18,3 +18,19 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </p>
+
+### Simple API Server using Vapor
+
+## Install
+
+1. Check if system is ready for Vapor. In terminal enter `eval "$(curl -sL check.vapor.sh)"`
+
+1. Make sure to have home brew installed if not it can be found here -> https://brew.sh/
+
+1. In terminal run `brew install vapor/tap/vapor`
+
+1. In project directory in terminal run `vapor xcode -y`
+
+
+## Notes
+ - This was build using Xcode 10 beta 6 on Majave beta 8
